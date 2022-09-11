@@ -2,11 +2,10 @@
 title: "Pgperffarm_GSOC"
 date: 2022-09-10
 ---
+Live server address: [http://140.211.168.145/](http://140.211.168.145/){:target="_blank"}
 
 Github repo for the Server: [https://github.com/PGPerfFarm/pgperffarm_server](https://github.com/PGPerfFarm/pgperffarm_server){:target="_blank"}
 > contributing branch at the moment: [https://github.com/PGPerfFarm/pgperffarm_server/tree/django_template_with_new_models](https://github.com/PGPerfFarm/pgperffarm_server/tree/django_template_with_new_models){:target="_blank"}
-
-
 
 Github repo for the client: [https://github.com/PGPerfFarm/pgperffarm](https://github.com/PGPerfFarm/pgperffarm){:target="_blank"}
 > contributing branch at the moment: [https://github.com/PGPerfFarm/pgperffarm/tree/new_models_tpch](https://github.com/PGPerfFarm/pgperffarm/tree/new_models_tpch){:target="_blank"}
@@ -55,13 +54,13 @@ Webpages for the TPC-H part are also added. For the TPC-H trend and query result
 
 ### June 13 ~ June 27
 
-- Added basic authentication to the back-end and front-end.
-- Deployed the project on the server.
-
+- Rewrote part of the front with Django template. (from [f02992f](https://github.com/PGPerfFarm/pgperffarm_server/commit/f02992fc327fceccf9260999d587ac3f5eb973f1){:target="_blank"} to [7045be2](https://github.com/PGPerfFarm/pgperffarm_server/commit/7045be257345c223bdbf97cb800c4761913be511){:target="_blank"} )
+- Deployed the project on the server. [http://140.211.168.145/](http://140.211.168.145/){:target="_blank"}
+- Added basic authentication option to the server and client. ([23316d2]([http://140.211.168.145/](https://github.com/PGPerfFarm/pgperffarm/commit/23316d242c51492ff38bf61db445d6385cd234ad)){:target="_blank"})
 
 ### June 27 -  July 11 
 
-- Rewrote the front-end with Django template
+- Finished rewriting the front-end with Django template 
 
 ### July 11 - 25 
 
