@@ -66,7 +66,7 @@ Webpages for the TPC-H part are also added. For the TPC-H trend and query result
 
 - Added TPC-H benchmark to the back-end and front-end. (from [e34bf07](https://github.com/PGPerfFarm/pgperffarm_server/commit/e34bf078025babaf4c04ca3e0082ff559b611c62){:target="_blank"} to [70ee15d](https://github.com/PGPerfFarm/pgperffarm_server/commit/70ee15dfbb70b91f755e7fc97baa4f9f94bb0dd0){:target="_blank"})
 - Added email notification feature to the back-end. (from [b608234](https://github.com/PGPerfFarm/pgperffarm_server/commit/b608234ab7c0d538b7eb2e32e500004810015207){:target="_blank"} to [f7298be](https://github.com/PGPerfFarm/pgperffarm_server/commit/f7298be31710e8550a17f462578b5a4a68884378){:target="_blank"})
-- Unified chart packages to d3.js. 
+- Unified chart packages to d3.js.  ([e8e27e5](https://github.com/PGPerfFarm/pgperffarm_server/commit/e8e27e5e9861ad403062014933f18c79a3f35062){:target="_blank"})
 
 ### Aug 19 - 26 
 
