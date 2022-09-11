@@ -55,21 +55,18 @@ Webpages for the TPC-H part are also added. For the TPC-H trend and query result
 ### June 13 ~ June 27
 
 - Rewrote part of the front with Django template. (from [f02992f](https://github.com/PGPerfFarm/pgperffarm_server/commit/f02992fc327fceccf9260999d587ac3f5eb973f1){:target="_blank"} to [7045be2](https://github.com/PGPerfFarm/pgperffarm_server/commit/7045be257345c223bdbf97cb800c4761913be511){:target="_blank"} )
+- Added basic authentication option to the server and client. ([23316d2](https://github.com/PGPerfFarm/pgperffarm/commit/23316d242c51492ff38bf61db445d6385cd234ad){:target="_blank"})
 - Deployed the project on the server. [http://140.211.168.145/](http://140.211.168.145/){:target="_blank"}
-- Added basic authentication option to the server and client. ([23316d2]([http://140.211.168.145/](https://github.com/PGPerfFarm/pgperffarm/commit/23316d242c51492ff38bf61db445d6385cd234ad)){:target="_blank"})
 
 ### June 27 -  July 11 
 
-- Finished rewriting the front-end with Django template 
+- Finished rewriting the front-end with Django template. (from [fe34e81](https://github.com/PGPerfFarm/pgperffarm_server/commit/fe34e811e6fe0039bfe44d57318b1cd8fabc7d8a){:target="_blank"} to [a4d4e07](https://github.com/PGPerfFarm/pgperffarm_server/commit/a4d4e07ad5af305c72993ea43b926e334a3d20ea){:target="_blank"} )
 
-### July 11 - 25 
+### July 11 - Aug 12  
 
-- Added TPC-H benchmark to the back-end and front-end.
-
-### July 29 - Aug 12 
-
-- Added email notification feature to the back-end.
-- Unified chart packages to d3.js.
+- Added TPC-H benchmark to the back-end and front-end. (from [e34bf07](https://github.com/PGPerfFarm/pgperffarm_server/commit/e34bf078025babaf4c04ca3e0082ff559b611c62){:target="_blank"} to [70ee15d](https://github.com/PGPerfFarm/pgperffarm_server/commit/70ee15dfbb70b91f755e7fc97baa4f9f94bb0dd0){:target="_blank"})
+- Added email notification feature to the back-end. (from [b608234](https://github.com/PGPerfFarm/pgperffarm_server/commit/b608234ab7c0d538b7eb2e32e500004810015207){:target="_blank"} to [f7298be](https://github.com/PGPerfFarm/pgperffarm_server/commit/f7298be31710e8550a17f462578b5a4a68884378){:target="_blank"})
+- Unified chart packages to d3.js. 
 
 ### Aug 19 - 26 
 
