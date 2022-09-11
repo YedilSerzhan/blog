@@ -70,10 +70,10 @@ Webpages for the TPC-H part are also added. For the TPC-H trend and query result
 
 ### Aug 19 - 26 
 
-- Redesigned the database schema and applied changed to the back-end.
-- Updated client workflow.
+- Redesigned the database schema and applied changed to the back-end. ([a861887](https://github.com/PGPerfFarm/pgperffarm/commit/6d279f115c675975e4a1d1ef419908e85271079c){:target="_blank"})
+- Updated client workflow.  ([cda152b](https://github.com/PGPerfFarm/pgperffarm/commit/cda152b9b50c3fcd484d0d58f1d195d1cacf3ea4){:target="_blank"})
 
 ### Aug 26 - Sep 9
 - Integration test & debugging.
-- Added support for custom database name.
-- Finalized documentation.
+- Added support for custom database name. ([2993f26](https://github.com/PGPerfFarm/pgperffarm/commit/2993f2608c9dee9066982f569348454f991a5784){:target="_blank"})
+- Finalized documentation. 
