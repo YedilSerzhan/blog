@@ -8,7 +8,6 @@ Github repo for the Server: [https://github.com/PGPerfFarm/pgperffarm_server](ht
 > contributing branch at the moment: [https://github.com/PGPerfFarm/pgperffarm_server/tree/django_template_with_new_models](https://github.com/PGPerfFarm/pgperffarm_server/tree/django_template_with_new_models){:target="_blank"}
 
 Github repo for the client: [https://github.com/PGPerfFarm/pgperffarm](https://github.com/PGPerfFarm/pgperffarm){:target="_blank"}
-> contributing branch at the moment: [https://github.com/PGPerfFarm/pgperffarm/tree/new_models_tpch](https://github.com/PGPerfFarm/pgperffarm/tree/new_models_tpch){:target="_blank"}
 
 
 
