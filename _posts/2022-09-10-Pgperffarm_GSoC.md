@@ -5,7 +5,7 @@ date: 2022-09-10
 Live server address: [http://140.211.168.145/](http://140.211.168.145/){:target="_blank"}
 
 
-Github repo for the client: [https://github.com/PGPerfFarm/pgperffarm](https://github.com/PGPerfFarm/pgperffarm){:target="_blank"}
+Github repo for the client: [https://github.com/PGPerfFarm/pgperffarm/tree/master](https://github.com/PGPerfFarm/pgperffarm/tree/master){:target="_blank"}
 
 Github repo for the Back-end: [https://github.com/PGPerfFarm/pgperffarm_server](https://github.com/PGPerfFarm/pgperffarm_server){:target="_blank"}
 > contributing branch at the moment: [https://github.com/PGPerfFarm/pgperffarm_server/tree/django_template_with_new_models](https://github.com/PGPerfFarm/pgperffarm_server/tree/django_template_with_new_models){:target="_blank"}
